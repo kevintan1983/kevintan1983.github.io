@@ -127,7 +127,7 @@ pre.prettyprint {
 code {
     border-radius: 4px;
     font-size: 1.6rem;
-    color: #3f3f3f;
+    color: #eee;
     padding: 2px 4px;
     background-color: rgba(128,128,128,0.09);
 }
